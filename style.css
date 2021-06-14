@@ -1,0 +1,21 @@
+body{
+    color: white;
+    background: linear-gradient(0.22turn,#3f5efb,#9852a1,#fc4646);
+}
+.heading
+{
+    width: 80%;
+    font-size: 22px;
+}
+#camera
+{
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px;
+}
+.name_of_family_members,#result_family_member_name,#result_family_member_accuracy
+{
+    color: transparent;
+    -webkit-text-stroke: 1px white; 
+    font-size: 30px;
+}
